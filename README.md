@@ -1,4 +1,4 @@
-# Minefield
+# 💣 Minefield 💣
 Through the Cod3r Java 2021 Completo course, a replica of the Minesweeper inspired by the Windows version was made.
 
 ## Technologies
