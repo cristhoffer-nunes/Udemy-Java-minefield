@@ -1,7 +1,7 @@
 # 💣 Minefield 💣
 Through the Cod3r Java 2021 Completo course, a replica of the Minesweeper inspired by the Windows version was made.
 
-## Technologies
+## Technologie
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
