@@ -1,17 +1,15 @@
-![Logo of the project](https://github.com/cristhoffer-nunes/Udemy-Java-minefield/blob/master/readme_images/minefield.png)
+# Minefield
+Through the Cod3r Java 2021 Completo course, a replica of the Minesweeper inspired by the Windows version was made.
 
-# Campo minado
-Através do curso Java 2021 Completo da Cod3r foi feito a réplica do Campo Minado inspirado na versão do Windows. 
-
-## Tecnologias
+## Technologies
 *  Eclipse IDE 2021‑03
 *  Java
-*  Pacote swing
+*  Package swing
 
-## Como jogar:
-> Botão esquerdo do mouse escolhe o campo que deseja abrir.
+## How to play:
+> Press the left mouse button to choose the field you want to open.
 
-> Botão direito do mouse escolhe o campo que deseja marcar.
+> Press the right mouse button to choose the field you want to mark.
 
 ![Demo of the project](https://github.com/cristhoffer-nunes/Udemy-Java-minefield/blob/master/readme_images/minefield.gif)
 
